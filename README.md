@@ -1,5 +1,7 @@
 # Coffee Machine Buying Guide
 
+[**Live Demo**](https://miclip.github.io/my-app/)
+
 A lightweight single-page quiz app that recommends coffee machines based on your preferences. Built with Vite, Preact, TypeScript, and Tailwind CSS v4.
 
 ## Quick Start
